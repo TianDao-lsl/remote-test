@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e0e8a7305c6bd9b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9201dd2c320c780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d4cb744511e9735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java语法 044 练习 用if语句实现分数比较/分数比较.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "343057323773e433",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0cf30b08c3771a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e30ffc059f75da9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db149a143e0145f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2739422107e2cb76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6304c6c6eefa71cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "de08dbd87b86a741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "662349c1220764ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java语法 044 练习 用if语句实现分数比较/分数比较.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "61220297a0d3c701",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java语法 044 练习 用if语句实现分数比较/分数比较.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e59466e3002ffa2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fa7eb380687a84d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java语法 044 练习 用if语句实现分数比较/分数比较.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0d4cb744511e9735",
+  "lastOpenFiles": [
+    "Java语法 044 练习 用if语句实现分数比较/Java语法 044 练习 用if语句实现分数比较/分数比较/IMG-分数比较-20240218010158715.png",
+    "Java语法 044 练习 用if语句实现分数比较/Java语法 044 练习 用if语句实现分数比较/分数比较",
+    "Java语法 044 练习 用if语句实现分数比较/Java语法 044 练习 用if语句实现分数比较/未命名",
+    "Java语法 044 练习 用if语句实现分数比较/Java语法 044 练习 用if语句实现分数比较",
+    "Java语法 044 练习 用if语句实现分数比较/Java语法 044 练习 用if语句实现分数比较/分数比较/IMG-分数比较-20240218005938049.png",
+    "Java语法 043 选择结构 穿透的switch/注意事项.md",
+    "Java语法 044 练习 用if语句实现分数比较/分数比较.md",
+    "Java语法 044 练习 用if语句实现分数比较",
+    "Java语法 043 选择结构 穿透的switch/Java语法 043 选择结构 穿透的switch/注意事项",
+    "Java语法 043 选择结构 穿透的switch/Java语法 043 选择结构 穿透的switch/未命名",
+    "Java语法 043 选择结构 穿透的switch/Java语法 043 选择结构 穿透的switch",
+    "Java语法 043 选择结构 穿透的switch/Java语法 043 选择结构 穿透的switch/注意事项/IMG-注意事项-20240218005706301.png",
+    "Java语法 042 选择结构 标准的switch/switch语句.md",
+    "Java语法 043 选择结构 穿透的switch",
+    "Java语法 042 选择结构 标准的switch/Java语法 042 选择结构 标准的switch/switch语句/IMG-switch语句-20240218005339046.png",
+    "Java语法 042 选择结构 标准的switch/Java语法 042 选择结构 标准的switch/switch语句",
+    "Java语法 042 选择结构 标准的switch/Java语法 042 选择结构 标准的switch/switch语句/IMG-switch语句-20240218005136838.png",
+    "Java语法 042 选择结构 标准的switch/Java语法 042 选择结构 标准的switch/未命名",
+    "Java语法 042 选择结构 标准的switch/Java语法 042 选择结构 标准的switch/未命名/IMG-未命名-20240218005041447.png",
+    "Java语法 041 选择结构 标准if else语句/标准if else语句.md",
+    "Java语法 041 选择结构 标准if else语句/Java语法 041 选择结构 标准if else语句/标准if else语句/IMG-标准if else语句-20240218004938117.png",
+    "Java语法 040 选择结构 扩展if else语句/选择结构 扩展if else语句.md",
+    "Java语法 040 选择结构 扩展if else语句/Java语法 040 选择结构 扩展if else语句/选择结构 扩展if else语句/IMG-选择结构 扩展if else语句-20240218004729966.png",
+    "Java语法 039 选择结构 单if语句/选择结构 单if语句.md",
+    "Java语法 039 选择结构 单if语句/Java语法 039 选择结构 单if语句/选择结构 单if语句/IMG-选择结构 单if语句-20240218004540973.png",
+    "Java语法 038 流程概述与顺序结构/流程概述与顺序结构.md",
+    "Java语法 038 流程概述与顺序结构/Java语法 038 流程概述与顺序结构/流程概述与顺序结构/IMG-流程概述与顺序结构-20240218004323725.png",
+    "Java语法 037 编译器的两点优化/编译器的两点优化.md",
+    "Java语法 036 JDK9的JShell简单使用/JDK9的JShell简单使用.md",
+    "Java语法 036 JDK9的JShell简单使用/Java语法 036 JDK9的JShell简单使用/JDK9的JShell简单使用/IMG-JDK9的JShell简单使用-20240218002517320.png",
+    "Java语法 034 方法入门 方法的定义/方法入门 方法的定义.md",
+    "Java语法 033 方法入门 概念引入/方法入门 概念引入.md",
+    "Java语法 031 逻辑运算符/逻辑运算符.md",
+    "Java语法 032三元运算符/三元运算符.md",
+    "Java语法 030 比较运算符/比较运算符.md",
+    "Java语法 029 赋值运算符/赋值运算符.md",
+    "Java语法 028 算术运算符 自增自减运/算术运算符 自增自减运.md",
+    "Java语法 027 算术运算符 加号的多种/加号的多种用法.md",
+    "Java语法 026 算术运算符 四则与取模运/算术运算符 四则与取模运.md",
+    "Welcome.md",
+    "Java语法 025 ASCII编码表/ASCII编码表.md",
+    "Java语法 024 数据类型转换 注意事项/数据类型转换 注意事项.md",
+    "Java语法 023 数据类型转换 强制转换/数据类型转换 强制转换.md",
+    "Java语法 022 数据类型转换 自动转换/数据类型转换 自动转换.md",
+    "Java语法 021 变量的注意事项/注意事项.md",
+    "Java语法 020 变量的基本使用/变量的使用.md"
+  ]
+}
